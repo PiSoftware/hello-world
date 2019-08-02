@@ -1,2 +1,5 @@
 # hello-world
-My very first GitHub project
+
+Hi humans:
+
+I like to develope some new stuff so I'll need your help.
